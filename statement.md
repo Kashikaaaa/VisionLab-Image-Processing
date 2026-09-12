@@ -1,7 +1,6 @@
 
 ## 2. `statement.md`
 
-Create another file named **`statement.md`** and paste:
 
 ```markdown
 # Project Statement
